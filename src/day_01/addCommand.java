@@ -1,0 +1,6 @@
+package day_01;
+
+public class addCommand {
+
+    // I want to try git add filename
+}
